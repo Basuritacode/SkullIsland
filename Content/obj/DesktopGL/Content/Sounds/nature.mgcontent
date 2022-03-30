@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/GameDev/RiderProjects/SkullIsland/Content/Sounds/nature.ogg</SourceFile>
+  <SourceTime>2022-03-30T09:19:35.8231399-05:00</SourceTime>
+  <DestFile>E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Sounds/nature.xnb</DestFile>
+  <DestTime>2022-03-30T09:26:07.440558-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T11:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Sounds/nature.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
