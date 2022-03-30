@@ -4,16 +4,20 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/background.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/ball.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/player.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkDown.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkLeft.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkRight.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkUp.png</File>
-    <File>/home/miguel/RiderProjects/SkullIsland/Content/skull.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/background.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/ball.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Player/player.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkDown.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkLeft.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkRight.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkUp.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/skull.png</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Sounds/blip.wav</File>
+    <File>E:/GameDev/RiderProjects/SkullIsland/Content/Sounds/nature.ogg</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

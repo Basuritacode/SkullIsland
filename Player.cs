@@ -72,6 +72,7 @@ namespace SkullIsland
 			if (kState.IsKeyDown(Keys.Space) && _kStateOld.IsKeyUp(Keys.Space))
 			{
 				Projectile.Projectiles.Add(new Projectile(_position, _direction));
+				MySounds.ProjectileSound.Play(1f,0.5f, 0f);
 			}
 			
 			if (kState.IsKeyDown(Keys.Space)) _isMoving = false;

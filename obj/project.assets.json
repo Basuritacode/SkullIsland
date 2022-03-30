@@ -197,24 +197,26 @@
     ]
   },
   "packageFolders": {
-    "/home/miguel/.nuget/packages/": {}
+    "C:\\Users\\mianp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/miguel/RiderProjects/SkullIsland/SkullIsland.csproj",
+      "projectUniqueName": "E:\\GameDev\\RiderProjects\\SkullIsland\\SkullIsland.csproj",
       "projectName": "SkullIsland",
-      "projectPath": "/home/miguel/RiderProjects/SkullIsland/SkullIsland.csproj",
-      "packagesPath": "/home/miguel/.nuget/packages/",
-      "outputPath": "/home/miguel/RiderProjects/SkullIsland/obj/",
+      "projectPath": "E:\\GameDev\\RiderProjects\\SkullIsland\\SkullIsland.csproj",
+      "packagesPath": "C:\\Users\\mianp\\.nuget\\packages\\",
+      "outputPath": "E:\\GameDev\\RiderProjects\\SkullIsland\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/miguel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mianp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -258,16 +260,8 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[3.1.23, 3.1.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
           }
         ],
         "frameworkReferences": {
@@ -275,7 +269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

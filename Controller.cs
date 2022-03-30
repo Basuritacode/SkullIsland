@@ -24,7 +24,7 @@ namespace SkullIsland
 				_timer = _maxTime;
 				if (_maxTime > 0.5)
 				{
-					_maxTime -= 0.05;
+					_maxTime -= 0.07;
 				}
 			}
 		}

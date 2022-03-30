@@ -1,9 +1,11 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"/home/miguel/RiderProjects/SkullIsland/Content/background.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,1.8291647
-"/home/miguel/RiderProjects/SkullIsland/Content/ball.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.0042772
-"/home/miguel/RiderProjects/SkullIsland/Content/Player/player.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.0201292
-"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkDown.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.0066722
-"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkLeft.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.0097854
-"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkRight.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.0064477
-"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkUp.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.0077137
-"/home/miguel/RiderProjects/SkullIsland/Content/skull.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.0219973
+"E:/GameDev/RiderProjects/SkullIsland/Content/background.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,1.0503924
+"E:/GameDev/RiderProjects/SkullIsland/Content/ball.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.0073677
+"E:/GameDev/RiderProjects/SkullIsland/Content/Player/player.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.01154
+"E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkDown.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.0083299
+"E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkLeft.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.0093689
+"E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkRight.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.0078766
+"E:/GameDev/RiderProjects/SkullIsland/Content/Player/walkUp.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.0096962
+"E:/GameDev/RiderProjects/SkullIsland/Content/skull.png","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.0184492
+"E:/GameDev/RiderProjects/SkullIsland/Content/Sounds/blip.wav","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Sounds/blip.xnb","SoundEffectProcessor","SoundEffectContent",7218,7279,1.5063376
+"E:/GameDev/RiderProjects/SkullIsland/Content/Sounds/nature.ogg","E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/Sounds/nature.xnb","SongProcessor","SongContent",1048881,124,2.4996753

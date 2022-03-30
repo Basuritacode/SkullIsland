@@ -1,6 +1,9 @@
-﻿using Microsoft.Xna.Framework;
+﻿using System.ComponentModel;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Media;
 using Comora;
 using rpg;
 
@@ -13,13 +16,19 @@ namespace SkullIsland
         Left,
         Right
     }
+
+    public static class MySounds
+    {
+        public static SoundEffect ProjectileSound;
+        public static Song BackMusic;
+    }
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         
         //Window size
-        public static int Width = 800;
+        public static int Width = 1920;
         public static int Height = Width * 9 / 16;
         
         //Assets: there are 8 in total
@@ -80,6 +89,11 @@ namespace SkullIsland
             _player.Animations[3] = new SpriteAnimation(_walkRight, 4, 8);
 
             _player.Animation = _player.Animations[0];
+            
+            //Sounds
+            MySounds.ProjectileSound = Content.Load<SoundEffect>("Sounds/blip");
+            MySounds.BackMusic = Content.Load<Song>("Sounds/nature");
+            MediaPlayer.Play(MySounds.BackMusic);
         }
 
         protected override void Update(GameTime gameTime)

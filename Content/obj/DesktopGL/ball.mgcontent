@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/home/miguel/RiderProjects/SkullIsland/Content/ball.png</SourceFile>
-  <SourceTime>2020-12-19T15:20:42-05:00</SourceTime>
-  <DestFile>/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/ball.xnb</DestFile>
-  <DestTime>2022-03-29T11:24:58.870929-05:00</DestTime>
+  <SourceFile>E:/GameDev/RiderProjects/SkullIsland/Content/ball.png</SourceFile>
+  <SourceTime>2022-03-29T20:43:41.854728-05:00</SourceTime>
+  <DestFile>E:/GameDev/RiderProjects/SkullIsland/Content/bin/DesktopGL/ball.xnb</DestFile>
+  <DestTime>2022-03-30T09:22:25.8515614-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

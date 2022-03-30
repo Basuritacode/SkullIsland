@@ -27,7 +27,7 @@ namespace SkullIsland
 		public Enemy(Vector2 position, Texture2D texture)
 		{
 			_position = position;
-			Animation = new SpriteAnimation(texture, 10, 6);
+			Animation = new SpriteAnimation(texture, 10, 2);
 		}
 
 		public void Update(GameTime gameTime, Vector2 playerPos, bool playerDead)
