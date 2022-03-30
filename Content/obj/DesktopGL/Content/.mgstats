@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/miguel/RiderProjects/SkullIsland/Content/background.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,1.4914292
+"/home/miguel/RiderProjects/SkullIsland/Content/ball.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.1872043
+"/home/miguel/RiderProjects/SkullIsland/Content/Player/player.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.0236089
+"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkDown.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.0162458
+"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkLeft.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.0129343
+"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkRight.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.0200628
+"/home/miguel/RiderProjects/SkullIsland/Content/Player/walkUp.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/Player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.0096036
+"/home/miguel/RiderProjects/SkullIsland/Content/skull.png","/home/miguel/RiderProjects/SkullIsland/Content/bin/DesktopGL/Content/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.0287177

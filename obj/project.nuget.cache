@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jrwetzJ3rkuD5vobka7M9rWy2rCP/Wnvip6NL/7lh1MUOWk40zNcggUkaPG8P3xfkorWFsd4XwvTw2zLbnCAw==",
+  "success": true,
+  "projectFilePath": "/home/miguel/RiderProjects/SkullIsland/SkullIsland.csproj",
+  "expectedPackageFiles": [
+    "/home/miguel/.nuget/packages/comora/0.5.0/comora.0.5.0.nupkg.sha512",
+    "/home/miguel/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/home/miguel/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "/home/miguel/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/miguel/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/miguel/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.23/microsoft.netcore.app.host.linux-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

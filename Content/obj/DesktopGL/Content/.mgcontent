@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/background.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/ball.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/player.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkDown.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkLeft.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkRight.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/Player/walkUp.png</File>
+    <File>/home/miguel/RiderProjects/SkullIsland/Content/skull.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
